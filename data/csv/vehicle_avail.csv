@@ -1,0 +1,71 @@
+GEOID,NAME,variable,estimate,moe,year,label_short
+2502702760,Auburn,B08201_002,239,89,2010,No vehicle available
+2502702760,Auburn,B08201_003,2098,256,2010,1 vehicle available
+2502702760,Auburn,B08201_004,2853,232,2010,2 vehicles available
+2502702760,Auburn,B08201_005,833,128,2010,3 vehicles available
+2502702760,Auburn,B08201_006,394,99,2010,4 or more vehicles available
+2502702760,Auburn,B08201_002,281,119,2011,No vehicle available
+2502702760,Auburn,B08201_003,2100,254,2011,1 vehicle available
+2502702760,Auburn,B08201_004,2637,238,2011,2 vehicles available
+2502702760,Auburn,B08201_005,899,144,2011,3 vehicles available
+2502702760,Auburn,B08201_006,401,95,2011,4 or more vehicles available
+2502702760,Auburn,B08201_002,312,94,2012,No vehicle available
+2502702760,Auburn,B08201_003,1907,214,2012,1 vehicle available
+2502702760,Auburn,B08201_004,2584,243,2012,2 vehicles available
+2502702760,Auburn,B08201_005,924,151,2012,3 vehicles available
+2502702760,Auburn,B08201_006,388,93,2012,4 or more vehicles available
+2502702760,Auburn,B08201_002,371,108,2013,No vehicle available
+2502702760,Auburn,B08201_003,1999,219,2013,1 vehicle available
+2502702760,Auburn,B08201_004,2559,213,2013,2 vehicles available
+2502702760,Auburn,B08201_005,922,141,2013,3 vehicles available
+2502702760,Auburn,B08201_006,394,84,2013,4 or more vehicles available
+2502702760,Auburn,B08201_002,410,97,2014,No vehicle available
+2502702760,Auburn,B08201_003,1974,221,2014,1 vehicle available
+2502702760,Auburn,B08201_004,2663,214,2014,2 vehicles available
+2502702760,Auburn,B08201_005,963,129,2014,3 vehicles available
+2502702760,Auburn,B08201_006,336,80,2014,4 or more vehicles available
+2502702760,Auburn,B08201_002,380,95,2015,No vehicle available
+2502702760,Auburn,B08201_003,2043,214,2015,1 vehicle available
+2502702760,Auburn,B08201_004,2704,216,2015,2 vehicles available
+2502702760,Auburn,B08201_005,876,136,2015,3 vehicles available
+2502702760,Auburn,B08201_006,347,81,2015,4 or more vehicles available
+2502702760,Auburn,B08201_002,449,99,2016,No vehicle available
+2502702760,Auburn,B08201_003,2078,244,2016,1 vehicle available
+2502702760,Auburn,B08201_004,2810,181,2016,2 vehicles available
+2502702760,Auburn,B08201_005,885,128,2016,3 vehicles available
+2502702760,Auburn,B08201_006,311,79,2016,4 or more vehicles available
+2502702760,Auburn,B08201_002,445,110,2017,No vehicle available
+2502702760,Auburn,B08201_003,2165,172,2017,1 vehicle available
+2502702760,Auburn,B08201_004,2899,175,2017,2 vehicles available
+2502702760,Auburn,B08201_005,903,115,2017,3 vehicles available
+2502702760,Auburn,B08201_006,304,73,2017,4 or more vehicles available
+2502702760,Auburn,B08201_002,416,95,2018,No vehicle available
+2502702760,Auburn,B08201_003,2169,239,2018,1 vehicle available
+2502702760,Auburn,B08201_004,3001,202,2018,2 vehicles available
+2502702760,Auburn,B08201_005,869,113,2018,3 vehicles available
+2502702760,Auburn,B08201_006,302,83,2018,4 or more vehicles available
+2502702760,Auburn,B08201_002,420,120,2019,No vehicle available
+2502702760,Auburn,B08201_003,2185,260,2019,1 vehicle available
+2502702760,Auburn,B08201_004,2925,249,2019,2 vehicles available
+2502702760,Auburn,B08201_005,810,146,2019,3 vehicles available
+2502702760,Auburn,B08201_006,332,89,2019,4 or more vehicles available
+2502702760,Auburn,B08201_002,462,116,2020,No vehicle available
+2502702760,Auburn,B08201_003,2106,245,2020,1 vehicle available
+2502702760,Auburn,B08201_004,2862,229,2020,2 vehicles available
+2502702760,Auburn,B08201_005,888,140,2020,3 vehicles available
+2502702760,Auburn,B08201_006,338,100,2020,4 or more vehicles available
+2502702760,Auburn,B08201_002,377,115,2021,No vehicle available
+2502702760,Auburn,B08201_003,2108,257,2021,1 vehicle available
+2502702760,Auburn,B08201_004,2813,277,2021,2 vehicles available
+2502702760,Auburn,B08201_005,904,173,2021,3 vehicles available
+2502702760,Auburn,B08201_006,393,110,2021,4 or more vehicles available
+2502702760,Auburn,B08201_002,396,147,2022,No vehicle available
+2502702760,Auburn,B08201_003,2305,288,2022,1 vehicle available
+2502702760,Auburn,B08201_004,2720,224,2022,2 vehicles available
+2502702760,Auburn,B08201_005,849,144,2022,3 vehicles available
+2502702760,Auburn,B08201_006,440,121,2022,4 or more vehicles available
+2502702760,Auburn,B08201_002,447,165,2023,No vehicle available
+2502702760,Auburn,B08201_003,2443,312,2023,1 vehicle available
+2502702760,Auburn,B08201_004,2710,240,2023,2 vehicles available
+2502702760,Auburn,B08201_005,819,160,2023,3 vehicles available
+2502702760,Auburn,B08201_006,435,135,2023,4 or more vehicles available
